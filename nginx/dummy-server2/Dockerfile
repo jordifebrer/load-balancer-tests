@@ -1,4 +1,5 @@
 FROM centos:centos7
+MAINTAINER Jordi Febrer <jordi.febrer@gmail.com>
 
 RUN python -v
 
